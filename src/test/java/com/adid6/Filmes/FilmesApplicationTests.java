@@ -1,4 +1,4 @@
-package adid6.api.Filmes;
+package com.adid6.Filmes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

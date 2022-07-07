@@ -1,4 +1,4 @@
-package adid6.api.Filmes;
+package com.adid6.Filmes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
